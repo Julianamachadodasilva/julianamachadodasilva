@@ -9,14 +9,19 @@
 </div></div><br>
 
 
-#### <h2 align="center" dir="auto">🛠️ Some tools I know: </h2>
+#### <h2 align="center" dir="auto">🛠️ Some automated tools I know: </h2>
 <div align="center"><div style="display: inline_block">
 <img align="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img align="center" alt="robotframework" src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
 <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div></div><br>
 
-
+#### <h2 align="center" dir="auto">🛠️ Some quality tools I know: </h2>
+<div align="center"><div style="display: inline_block">
+<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img align="center" alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
+<img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</div></div><br>
 
 #### <h2 align="center" dir="auto">📭 Contact me: </h2>
 <div align="center">
