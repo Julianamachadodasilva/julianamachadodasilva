@@ -20,7 +20,7 @@
 
 #### <h2 align="center" dir="auto">📭 Contact me: </h2>
 <div align="center">
-  <a href="[https://www.linkedin.com/in/julianamachadodasilva/](https://www.linkedin.com/in/julianamachadodasilva/)">
+  <a href="[https://www.linkedin.com/in/julianamachadodasilva/]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
 </div>
