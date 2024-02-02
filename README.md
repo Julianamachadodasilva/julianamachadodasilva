@@ -1,6 +1,6 @@
 ### <h2 align="center" dir="auto"> 👋 Hi there, welcome! </h2>
 <p align="center" dir="auto">
-  <samp>Me chamo Juliana, I am a meticulous Bilingual QA Software Tester with a strong focus on team well-being and quality processes. Experienced in crafting and documenting software test plans, configuring testing environments, executing and documenting tests, and implementing quality processes. Eager to contribute my skills to international projects and currently seeking opportunities in Canada The purpose of this repository is to store the personal projects I made for study purposes. If you want to get in touch with me, you can find my Linkedin profile below. </samp><br><br>
+  <samp>My name is Juliana, I am a meticulous Bilingual QA Software Tester with a strong focus on team well-being and quality processes. Experienced in crafting and documenting software test plans, configuring testing environments, executing and documenting tests, and implementing quality processes. Eager to contribute my skills to international projects and currently seeking opportunities in Canada The purpose of this repository is to store the personal projects I made for study purposes. If you want to get in touch with me, you can find my Linkedin profile below. </samp><br><br>
 
 #### <h2 align="center" dir="auto">👩‍💻 My programming languages: </h2>
 <div align="center"><div style="display: inline_block">
