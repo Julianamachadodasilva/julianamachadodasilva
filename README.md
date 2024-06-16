@@ -7,6 +7,12 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div></div><br>
 
+#### <h2 align="center" dir="auto">👩‍💻 Terminals: </h2>
+<div align="center"><div style="display: inline_block">
+<img align="center" alt="Git" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img align="center" alt="WindowsTerminal" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+</div></div><br>
+
 #### <h2 align="center" dir="auto">👩‍💻 Plataforms: </h2>
 <div align="center"><div style="display: inline_block">
 <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
