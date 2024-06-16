@@ -19,6 +19,7 @@
 <div align="center"><div style="display: inline_block">
 <img align="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img align="center" alt="robotframework" src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
+<img align="center" alt="applitools" src="https://images.app.goo.gl/mpuTv3JzcLRkmhL67"/>
 </div></div><br>
 
 #### <h2 align="center" dir="auto">🛠️ Some quality tools I know: </h2>
