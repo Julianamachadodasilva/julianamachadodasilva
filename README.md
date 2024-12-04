@@ -2,11 +2,6 @@
 <p align="center" dir="auto">
   <samp>My name is Juliana, I am a meticulous Bilingual QA Software Tester with a strong focus on team well-being and quality processes. Experienced in crafting and documenting software test plans, configuring testing environments, executing and documenting tests, and implementing quality processes. Eager to contribute my skills to international projects and currently seeking opportunities in Canada The purpose of this repository is to store the personal projects I made for study purposes. </samp><br><br>
 
-#### <h2 align="center" dir="auto">👩‍💻 My programming languages: </h2>
-<div align="center"><div style="display: inline_block">
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div></div><br>
-
 #### <h2 align="center" dir="auto">👩‍💻 Plataforms: </h2>
 <div align="center"><div style="display: inline_block">
 <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
