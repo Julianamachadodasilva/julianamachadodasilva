@@ -34,10 +34,3 @@
 <img align="center" alt="AzureDevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img align="center" alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </div></div><br>
-
-#### <h2 align="center" dir="auto">📭 Contact me: </h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/julianamachadodasilva/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-  </a>
-</div>
